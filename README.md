@@ -1,4 +1,4 @@
-# Tugas-Kotlin-Dua
+# Learning CardView In Kotlin
 
 ini merupakan project kedua pada course Kotlin From Zero To Hero Udacoding
 
@@ -12,7 +12,6 @@ berikut cuplikan tampilan aplikasi ini :
 2. Halaman Detail
 ![Screenshot_2020-08-01-16-35-36-77_4f3f113b20e2963996ce966a5dd8d51a](https://user-images.githubusercontent.com/63776459/89098834-26e27b00-d415-11ea-8f47-ecf8fb2c9c8d.png)
 
-TERIMA KASIH!! Jangan Lupa Follow IG Saya :
+TERIMA KASIH!! Untuk Inspirasi lain silahkan klik : 
 
-1. https://www.instagram.com/erwinpaisal.id
-2. https://www.instagram.com/literasikoding
+https://biolinky.co/erwinpaisal
