@@ -1,6 +1,6 @@
 # Learning CardView In Kotlin
 
-ini merupakan project kedua pada course Kotlin From Zero To Hero Udacoding
+
 
 aplikasi sederhana ini dibangun menggunakan bahasa kotlin.
 
